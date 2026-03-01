@@ -1,6 +1,6 @@
-# Job Market Skill Analysis Report
+# Job-Market Skill Mining for Curriculum Design
 
-Portfolio-ready repository for job market analysis and resume targeting insights.
+Portfolio-ready repository for job market analysis and resume targeting insights for course curriculum.
 
 ## What this project does
 - Collects raw job data from Indeed using a scraper workflow.
