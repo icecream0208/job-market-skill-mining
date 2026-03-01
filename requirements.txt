@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+requests
+openai
+beautifulsoup4
+camoufox
+camoufox-captcha
+python-dotenv
+jupyter
+ipykernel
